@@ -39,7 +39,6 @@ public final class SeqTest {
         names.add( "Name with space" );
         names.add( "Name with line\nbreak" );
         names.add( ">Whole fasta line name\n" );
-        names.add( "Unicode name · (sum), Ã (sqr_rt)" );
         names.add( EMPTY_STRING );
         names.add( "12345" );
         names.add(
